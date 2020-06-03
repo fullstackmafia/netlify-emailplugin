@@ -18,6 +18,6 @@ inputs:
 
 Add these environment variables to your project:
 
-KEY ----- Your Postmark API key /n
-FROM_EMAIL ----- The email address you'll be sending your email from. /n
-TO_EMAIL -----  The email address you'll be sending your email to. /n
+KEY ----- Your Postmark API key <br>
+FROM_EMAIL ----- The email address you'll be sending your email from. <br>
+TO_EMAIL -----  The email address you'll be sending your email to. <br>
