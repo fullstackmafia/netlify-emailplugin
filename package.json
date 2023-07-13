@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "postmark": "^2.5.3"
+    "postmark": "^2.9.5"
   },
   "name": "netlify-emailplugin",
   "version": "1.0.0",
